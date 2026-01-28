@@ -1,0 +1,6 @@
+
+{
+  "name": "BlockVault MC Store",
+  "description": "A premium Minecraft webstore with a built-in admin panel for managing server ranks, items, and cosmetics.",
+  "requestFramePermissions": []
+}
